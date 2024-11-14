@@ -6,7 +6,7 @@
  <p>A quick preview of the Note Keeper app with video integration.</p>
 
 
-![playList](https://github.com/user-attachments/assets/1b990915-2f91-4de8-abc7-6fe8d838a543)
+
 
 
 <h2>🛠️ Technologies Used</h2>
