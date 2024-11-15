@@ -5,7 +5,7 @@
  <h2>📸 Project Demo</h2>
  <p>A quick preview of the Note Keeper app with video integration.</p>
 
-
+![note keeper](https://github.com/user-attachments/assets/d72ae5ad-47c9-43ad-9bf3-e6e074c7bfae)
 
 
 
