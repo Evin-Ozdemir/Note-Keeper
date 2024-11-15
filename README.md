@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/5be412ec-010e-4b97-95ca-26352232017d
 <div><h1>📝 Note Keeper </h1></div>
 <h4>This Note Keeper Website allows users to create, save, and manage notes in a user-friendly interface. Built with HTML, CSS, and JavaScript, this project offers a practical note-taking experience right in the browser, making it a handy tool for organizing ideas and tasks.</h4>
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
@@ -9,6 +8,7 @@ https://github.com/user-attachments/assets/5be412ec-010e-4b97-95ca-26352232017d
 
 ![note keeper](https://github.com/user-attachments/assets/d72ae5ad-47c9-43ad-9bf3-e6e074c7bfae)
 
+https://github.com/user-attachments/assets/5be412ec-010e-4b97-95ca-26352232017d
 
 <h2>🛠️ Technologies Used</h2>
  <ul>
